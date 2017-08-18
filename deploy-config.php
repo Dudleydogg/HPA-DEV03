@@ -31,7 +31,7 @@
  * Don't forget the trailing slash!
  *
  * @var string Full path including the trailing slash
- */ define('TARGET_DIR', '/var/www/html/'); /**
+ */ define('TARGET_DIR', '/usr/share/wordpress/wp-commit/'); /**
  * Whether to delete the files that are not in the repository but are on the
  * local (server) machine.
  *
